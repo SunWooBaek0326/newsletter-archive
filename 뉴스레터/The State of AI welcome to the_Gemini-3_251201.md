@@ -4,7 +4,7 @@ tags:
   - newsletter
   - gemini
 source: "https://www.technologyreview.com/2025/12/01/1127872/the-state-of-ai-welcome-to-the-economic-singularity/"
-model: Gemini-2.5
+model: Gemini-3
 ---
 
 # The State of AI: welcome to the economic singularity
