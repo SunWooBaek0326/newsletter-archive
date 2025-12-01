@@ -1,5 +1,5 @@
 ---
-created: 2025-12-01
+created: 2025-12-01 // Date 객체를 사용하여 날짜 생성
 tags:
   - newsletter
   - gpt
