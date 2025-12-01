@@ -4,7 +4,7 @@ tags:
   - newsletter
   - gemini
 source: "https://www.technologyreview.com/2025/12/01/1128615/the-download-spotting-crimes-in-prisoners-phone-calls-and-nominate-an-innovator-under-35/"
-model: Gemini-2.5
+model: Gemini-3
 ---
 
 # The Download: spotting crimes in prisoners’ phone calls, and nominate an Innovator Under 35
